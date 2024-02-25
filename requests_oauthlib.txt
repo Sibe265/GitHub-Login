@@ -1,0 +1,5 @@
+Flask
+gunicorn
+sqla-wrapper
+psycopg2
+requests_oauthlib
